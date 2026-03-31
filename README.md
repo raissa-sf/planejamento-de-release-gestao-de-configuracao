@@ -9,7 +9,7 @@
 ## 👥 Integrantes do Grupo
 1. **[Raissa Santos Feitosa](https://www.linkedin.com/in/raissa-santos-feitosa-73485b1a3/)** - Papel: Líder/DevOps.
 2. **[Áquila Matheus de Oliveira](https://www.linkedin.com/in/aquila-oliveira/)** - Papel: Desenvolvedor.
-3. **A definir** - Papel: Revisor/QA.
+3. **[Eduardo Schoof](https://www.linkedin.com/in/eduardo-schoof/)** - Papel: Revisor/QA.
 
 ## 🎯 Propósito do Projeto
 Este projeto tem como objetivo simular o desenvolvimento de uma miniaplicação web, praticando conceitos fundamentais de controle de versão, como o uso de branches, commits, pull requests, tags e a gestão de releases.
