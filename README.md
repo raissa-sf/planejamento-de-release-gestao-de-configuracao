@@ -8,7 +8,7 @@
 
 ## 👥 Integrantes do Grupo
 1. **[Raissa Santos Feitosa](https://www.linkedin.com/in/raissa-santos-feitosa-73485b1a3/)** - Papel: Líder/DevOps.
-2. **A definir** - Papel: Desenvolvedor.
+2. **[Áquila Matheus de Oliveira](https://www.linkedin.com/in/aquila-oliveira/)** - Papel: Desenvolvedor.
 3. **A definir** - Papel: Revisor/QA.
 
 ## 🎯 Propósito do Projeto
